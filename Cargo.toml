@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = "*"
 eyre = "*"
+twox-hash = { version = "1.6.3" }
